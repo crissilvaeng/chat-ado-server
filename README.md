@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">Um implementação do servidor de KnockKnock em Java.</h4>
-<h5 align="center">Implementação do Cliente do KnockKnock: <a hfef="https://github.com/phoms/chat-ado">Chat-Ado</a></h5>
+<h5 align="center">Implementação do Cliente do KnockKnock: <a href="https://github.com/phoms/chat-ado">Chat-Ado</a></h5>
 
 <p align="center">
     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
